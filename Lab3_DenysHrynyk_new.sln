@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab3_DenysHrynyk_new", "Lab3_DenysHrynyk_new\Lab3_DenysHrynyk_new.vcxproj", "{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Debug|x64.ActiveCfg = Debug|x64
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Debug|x64.Build.0 = Debug|x64
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Debug|x86.Build.0 = Debug|Win32
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Release|x64.ActiveCfg = Release|x64
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Release|x64.Build.0 = Release|x64
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Release|x86.ActiveCfg = Release|Win32
+		{1443A2E2-C4F1-4BFD-821B-A46D031AB20C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381C9EA5-CFBD-41EE-A645-D15455CB46B9}
+	EndGlobalSection
+EndGlobal
